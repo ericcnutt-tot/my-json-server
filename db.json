@@ -1,0 +1,48 @@
+{
+"GiftCardCodes": {
+"GiftCardCodes": [
+{
+"GFC_COD": "CG100",
+"DESCR": "$100 Gift Card",
+"DESCR_UPR": "$100 GIFT CARD",
+"SELL_DESCR": "$100 Gift Card",
+"DFLT_AMT": 100,
+"ALLOW_AMT_CHNG": "Y",
+"LIAB_ACCT_NO": "2090",
+"LIAB_METH": "!",
+"RDM_ACCT_NO": "2090",
+"RDM_METH": "!",
+"FORF_ACCT_NO": "8510",
+"FORF_METH": "!",
+"CREATE_AS_STC": "Y",
+"USE_RDR": "Y",
+"LST_MAINT_DT": "2016-04-06T09:24:53.0000000",
+"LST_MAINT_USR_ID": "MGR",
+"RS_UTC_DT": "2016-04-06T13:24:53.2430000",
+"RS_STAT": 1
+},
+{
+"GFC_COD": "GC",
+"DESCR": "Gift Card",
+"DESCR_UPR": "GIFT CARD",
+"SELL_DESCR": "Gift Card",
+"DFLT_AMT": 20,
+"ALLOW_AMT_CHNG": "Y",
+"LIAB_ACCT_NO": "2090",
+"LIAB_METH": "!",
+"RDM_ACCT_NO": "2090",
+"RDM_METH": "!",
+"FORF_ACCT_NO": "8510",
+"FORF_METH": "!",
+"CREATE_AS_STC": "N",
+"USE_RDR": "N",
+"LST_MAINT_DT": "2011-03-11T17:09:39.0000000",
+"LST_MAINT_USR_ID": "MGR",
+"RS_UTC_DT": "2011-03-11T22:09:39.0000000",
+"RS_STAT": 0
+}
+}
+],
+"ErrorCode": "SUCCESS"
+}
+}
