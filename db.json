@@ -37,26 +37,6 @@
         "LST_MAINT_USR_ID": "JSMITH",
         "RS_UTC_DT": "2016-04-04T15:30:20.0000000",
         "RS_STAT": 0
-      },
-      {
-        "GFC_COD": "GC Test",
-        "DESCR": "Gift Card Test",
-        "DESCR_UPR": "GIFT CARD TEST",
-        "SELL_DESCR": "Enter Recipient Name Here TEST",
-        "DFLT_AMT": 20,
-        "ALLOW_AMT_CHNG": "Y",
-        "LIAB_ACCT_NO": "TEST",
-        "LIAB_METH": "!",
-        "RDM_ACCT_NO": "TEST",
-        "RDM_METH": "!",
-        "FORF_ACCT_NO": "TEST",
-        "FORF_METH": "!",
-        "CREATE_AS_STC": "Y",
-        "USE_RDR": "N",
-        "LST_MAINT_DT": "2015-12-17T14:44:07.0000000",
-        "LST_MAINT_USR_ID": "ENUTT",
-        "RS_UTC_DT": "2015-12-17T19:44:07.0000000",
-        "RS_STAT": 0
       }
     ],
     "ErrorCode": "SUCCESS"
