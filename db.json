@@ -22,23 +22,6 @@
         "RS_STAT": 0
       },
       {
-        "GFC_COD": "GC TEST",
-        "DESCR": "Gift Card TEST",
-        "DESCR_UPR": "GIFT CARD TEST",
-        "SELL_DESCR": "Enter Recipient Name Here TEST",
-        "DFLT_AMT": 20,
-        "ALLOW_AMT_CHNG": "Y",
-        "LIAB_METH": "!",
-        "RDM_METH": "!",
-        "FORF_METH": "!",
-        "CREATE_AS_STC": "Y",
-        "USE_RDR": "N",
-        "LST_MAINT_DT": "2015-12-17T14:44:07.0000000",
-        "LST_MAINT_USR_ID": "JSMITH",
-        "RS_UTC_DT": "2015-12-17T19:44:07.0000000",
-        "RS_STAT": 0
-      },
-      {
         "GFC_COD": "OLD_GC",
         "DESCR": "Kopke's Paper Gift Certificate TEST UPDATE",
         "DESCR_UPR": "KOPKE'S PAPER GIFT CERTIFICATE",
