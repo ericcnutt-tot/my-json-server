@@ -1,33 +1,31 @@
 {
   "Document": {
-    {
-      "Documents": [
-        {
-          "DOC_ID": 107437147733243,
-          "reference": "Ticket",
-          "Link": {
-            "uri": "https://199.38.169.45:52000/Document/107437147733243",
-            "method": "get"
-          },
-          "PaymentResponses": [
-            {
-              "PMT_SEQ_NO": 1,
-              "Response": "ACCEPTED"
-            }
-          ]
+    "Documents": [
+      {
+        "DOC_ID": 107437147733243,
+        "reference": "Ticket",
+        "Link": {
+          "uri": "https://199.38.169.45:52000/Document/107437147733243",
+          "method": "get"
         },
-        {
-          "DOC_ID": 107437147678783,
-          "reference": "Order",
-          "Link": {
-            "uri": "https://199.38.169.45:52000/Document/107437147678783",
-            "method": "get"
-          },
-          "PaymentResponses": []
-        }
-      ],
-      "ErrorCode": "SUCCESS"
-    }
+        "PaymentResponses": [
+          {
+            "PMT_SEQ_NO": 1,
+            "Response": "ACCEPTED"
+          }
+        ]
+      },
+      {
+        "DOC_ID": 107437147678783,
+        "reference": "Order",
+        "Link": {
+          "uri": "https://199.38.169.45:52000/Document/107437147678783",
+          "method": "get"
+        },
+        "PaymentResponses": []
+      }
+    ],
+    "ErrorCode": "SUCCESS"
   },
   "GiftCardCodes": {
     "GiftCardCodes": [
